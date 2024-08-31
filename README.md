@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @crieslikeagirl
 - 👀 I’m interested in more things than i am able to comprehend
-- 🌱 I’m currently learning Python and Community Management
-- 💞️ I’m looking to collaborate on the Dead Avatar Project
-- 📫 How to reach me Twitter DMs are always open :) @CriedLikeAChild
+- 🌱 I’m currently learning Python and BlenderAPI (maybe Vulkan soon)
+- 💞️ I’m looking to collaborate on Blender CAD projects!
+- 📫 How to reach me ; email!
 
 <!---
 crieslikeagirl/crieslikeagirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
